@@ -14,6 +14,6 @@ Use inline HTML with CodeCogs to render LaTeX in markdown files:
 
 More complex CodeCogs example:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\nu=\SIGMA_{i=1}^{n}\SIGMA_{j>=i}^n{q_i}{p_j}" title="Block of LaTeX" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\nu=\Sigma_{i=1}^{n}\Sigma_{j\geq{i}}^n{q_i}{p_j}" title="Block of LaTeX" />
 
 Test if HTML displays in markdown files: <strong style="font-family:serif;">A bold font choice</strong>
