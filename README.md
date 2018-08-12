@@ -5,4 +5,7 @@ I am a mathematician, statistician, who enjoys leveraging machine learning to co
 
 Test if inline LaTeX displays in markdown files: $\mathbb{MAYBE}$
 
+Use inline HTML with CodeCogs to render LaTeX in markdown files:
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{YES}" title="Some LaTeX" />
+
 Test if HTML displays in markdown files: <strong style="font-family:serif;">A bold font choice</strong>
