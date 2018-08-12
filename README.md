@@ -1,4 +1,4 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM>CHTML" </script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM>CHTML"> </script>
 
 # hello_sol_system
 Initial repository, a playground for experimentation
@@ -11,5 +11,9 @@ $$ \nu = \SIGMA_{i=1}^{n} \SIGMA_{j>=i}^n q_i * p_j $$
 
 Use inline HTML with CodeCogs to render LaTeX in markdown files:
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{YES}" title="Some LaTeX" />
+
+More complex CodeCogs example:
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\nu=\SIGMA_{i=1}^{n}\SIGMA_{j>=i}^n{q_i}{p_j}" title="Block of LaTeX" />
 
 Test if HTML displays in markdown files: <strong style="font-family:serif;">A bold font choice</strong>
