@@ -4,7 +4,7 @@ Initial repository, a playground for experimentation
 
 # Me
 
-I am a mathematician, statistician, who enjoys leveraging machine learning to construct intuitive analyses and data visualizations. As a result I spend a lot of time programming, in Python currently, so that my work can be captured, documented, and encapsulated components of tools.
+I am a mathematician, statistician, who enjoys leveraging machine learning to construct intuitive analyses and data visualizations. As a result I spend a lot of time programming, in Python currently, so that my work can be captured, documented, and encapsulated into usable tools.
 
 # Markdown Playground
 
